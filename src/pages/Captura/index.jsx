@@ -104,6 +104,7 @@ export function Captura() {
     .then((response) => {
     })
   }
+  //foi
   function capturar(pokebola){
     return axios({method: 'put',
     url: 'https://rotas-pokeverse.onrender.com/capture_pokemons',
