@@ -1,0 +1,263 @@
+.Captura{
+    background-image: url(../../assets/Locais/grass-background.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    min-width: 100%;
+    min-width: 100%;
+    .pokemom{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        height: calc(100vh - 290px) !important;
+        padding: 20px 0px;
+        max-width: 60%;
+        margin: auto;
+        @media screen and (max-height: 600px){
+            height: calc(100vh - 200px) !important;
+        }
+        .pokemom-img{
+            background-image: url(../../assets/mega-rayquaza-rayquaza.svg);
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: contain;
+            height: 100%;
+            width: 100%;
+        }
+        .poke-info{
+            display: flex;
+            flex-direction: column;
+            width: 180px;
+            font-weight: bold;
+            font-size: 1.3rem;
+            .raridade{
+                margin-left: auto;
+                color: red;
+            }
+        }
+    }
+    .options{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: end;
+        padding: 20px 0px 0px 0px;
+        .item-box{
+            background-color: rgba(121, 193, 233, 0.4);
+            width: 170px;
+            height: 140px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            .item{
+                background-repeat: no-repeat;
+                background-size: cover;
+                background-position: center;
+                width: 80px;
+                height: 80px;
+            }
+            .banana{
+                background-image: url(../../assets/Itens/banana-rosa.svg);
+            }
+            .abacaxi{
+                background-image: url(../../assets/Itens/aabacaxi.svg);
+            }
+            .uva{
+                background-image: url(../../assets/Itens/uva-vermelha.svg);
+            }
+            .upgraded_abacaxi{
+                background-image: url(../../assets/Itens/abacaxiUpgrade.png);
+            }
+            .upgraded_banana{
+                background-image: url(../../assets/Itens/bananaUpgrade.png);
+            }
+            .upgraded_uva{
+                background-image: url(../../assets/Itens/uvaUpgrade.png);
+            }
+        }
+        .pokebolas{
+            width: 650px;
+            height: 100%;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+            >div{
+                height: 30vh;
+                width: 30%;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                button{
+                    background-color: rgba(0, 0, 0, 0);
+                    border: none;
+                    width: 75%;
+                    height: 75%;
+                    font-size: 2rem;
+                    font-weight: bold;
+                    // color: white;
+                    display: flex;
+                    align-items: start;
+                    justify-content: end;
+                    cursor: pointer;
+                    &:hover{
+                        margin-top: 10px;
+                        &.centro{
+                            margin-top: 0px;
+                            margin-bottom: 10px;
+                        }
+                    }
+                }
+            }               
+                .pokebola2{
+                    background-image: url(../../assets/Itens/poke-normal.svg);
+                    background-repeat: no-repeat;
+                    background-size: contain;
+                    background-position: center;
+                }
+                .centro{
+                    height: 100% !important;
+                    width: 100% !important;    
+                }
+                .pokebola1{
+                    background-image: url(../../assets/Itens/poke-ultra.svg);
+                    background-repeat: no-repeat;
+                    background-size: contain;
+                    background-position: center;
+                }
+                .pokebola3{
+                    background-image: url(../../assets/Itens/poke-great.svg);
+                    background-repeat: no-repeat;
+                    background-size: contain;
+                    background-position: center;
+                }
+        }
+        .buttons-desistir{
+            display: flex;
+            flex-direction: column-reverse;
+            align-items: center;
+            gap: 10px;
+            transition: all .3s;
+            .oppcoes-desistir{
+                display: flex;
+                gap: 15px;
+            }
+            .Botao-desistir{
+                padding: 20px 10px;
+            }
+        }
+    }
+    .aparecer{
+        left: 0px;
+        position: absolute;
+        article{
+            min-width: 40%;
+            .titulo{
+                display: flex;
+                color: white;
+                align-items: center;
+                padding: 25px 40px;
+                justify-content: space-between;
+                border-bottom: 2px solid white;
+                height: 25%;
+                h1{
+                    padding: 0px 8px;
+                    font-size: 2rem;
+                    border-bottom: 1px solid gray;
+                }
+            }
+            .compra{
+                display: flex;
+                flex-direction: column;
+                padding: 40px;
+                gap: 10px;
+                font-size: 1.3rem;
+                h1{
+                    color: white;
+                }
+                button{
+                    img{
+                        width: 25px;
+                        height: 25px;
+                    }
+                }
+            }
+            
+        }
+    }
+    .pos-captura{
+        position: absolute;
+        top: 20%;
+        left: 35%;
+        background-color: rgb(253, 244, 194);
+        border: 5px groove black; 
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+        min-height: 220px;
+        min-width: 350px;
+        .adicionar-nickname{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            .primeira-opt{
+                top: 55px;
+                position: absolute;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                gap: 15px;
+                p{
+                    text-align: center;
+                }
+                .buttons-choice{
+                    display: flex;
+                    gap: 15px;
+                }
+            }
+            .segunda-opt{
+                position: absolute;
+                top: 55px;
+                form{
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    gap: 20px;
+                    .buttons-confirm{
+                        display: flex;
+                        gap: 15px;
+                        .cancelar{
+                            .BotaoSubmit{
+                                border: 2px solid black;
+                                font-size: 1rem;
+                                padding: 10px 15px;
+                                border-radius: 25px;
+                                cursor: pointer;
+                                &:hover{
+                                    opacity: 0.7;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        .continuarCaptura{
+            position: absolute;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            align-items: center;
+            h1{
+                text-align: center;
+            }
+            section{
+                display: flex;
+                gap: 15px;
+            }
+        }
+    }
+    .sumir{
+        display: none;
+    }
+}

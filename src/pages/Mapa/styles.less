@@ -1,0 +1,61 @@
+.Mapa{
+    background-color: black;
+    display: flex;
+    min-height: 100vh;
+    // min-width: 60vw;
+    @media (max-width: 860px){
+        flex-wrap: wrap;
+    }
+    .mapa-fisico{
+        background-image: url('../../assets/Mapa.svg');
+        background-size: contain;
+        min-height: calc(100vh - 300px);
+        width: 854px;
+        background-repeat: no-repeat;
+        // @media (max-width: 1070px){
+            //     background-size: cover;
+            //     width: 80%;
+            // }
+            @media (max-height: 580px){
+                display: none;
+            }
+    }
+    .viajar{
+        display: flex;
+        flex-direction: column;
+        color: white;
+        flex-grow: 1;
+        // width: 44%;
+        h1{
+            text-align: center;
+            font-size: 2.8rem;
+            padding: 20px 0px 20px 0px;
+            border-bottom: 2px solid white;
+        }
+        .infoViagem{
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+            padding: 25px;
+            align-items: center;
+            h2{
+                font-size: 1.6rem;
+            }
+            .buttonsInfo{
+                width: 100%;
+                max-height: calc(100vh - 200px);
+                overflow: auto;
+                padding: 10px;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                button{
+                    min-width: 200px;
+                }
+                // @media (max-width: 860px){
+                //     flex-direction: ;
+                // }
+            }
+        }
+    }
+}

@@ -1,0 +1,160 @@
+.Battle{
+    background-image: url('../../assets/Locais/grass-background.svg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+    min-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    padding: 20px 20px 20px 0px;
+    justify-content: space-between;
+    .fugido{
+        min-width: 100%;
+        min-height: calc(100vh - 40px);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 20px;
+        h1{
+            font-size: 2rem;
+            color: red;
+        }
+        article{
+            // min-height: 300px;
+            max-width: 30%;
+            width: 100%;
+        }
+        .botoes-fugido{
+            display: flex;
+            gap: 40px;
+            padding: 20px;
+            button{
+                padding: 20px 20px;
+                font-size: 1rem;
+            }
+        }
+    }
+    .chat{
+        display: flex;
+        @media (max-width: 1000px){
+            display: none;
+        }
+    }
+    .chatMin{
+        position: absolute;
+        z-index: 10;
+    }
+    .chat-800-600{
+        display: none;
+        padding: 10px;
+        font-size: 1rem;
+        @media (max-width: 1000px){
+            display: block;
+        }
+    }
+    .pokemons{
+        display: flex;
+        min-height: 100%;
+        min-height: 200px;
+        justify-content: space-evenly;
+        min-width: 100%;
+        
+        > div{
+            width: 200px;
+            min-height: 150px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            .poke1{
+                width: 100%;
+                height: 100%;
+                background-image: url(../../assets/pika1.svg);
+                background-repeat: no-repeat;
+                background-size: contain;
+                background-position: left center;
+            }
+            .poke2{
+                background-image: url(../../assets/pika1.svg);
+                width: 100%;
+                height: 100%;
+                background-repeat: no-repeat;
+                background-size: contain;
+                background-position: center;
+            }
+            .info{
+                background-color: rgb(255, 253, 190);
+                display: flex;
+                flex-direction: column;
+                align-items: baseline;
+                gap: 10px;
+                padding: 10px;
+                border-radius: 10px;
+                border: 4px ridge black;
+                box-shadow: 8px 8px 4px black;
+                .life-pai{
+                    width: 100px;
+                    margin-left: auto;
+                    height: 15px;
+                    border-radius: 7px;
+                    border: .5px ridge black;
+                    display: flex;
+                    justify-content: end;
+                    .life{
+                        background-color: green;
+                        border-radius: 7px;
+                        // min-width: 100% !important;
+                        transition: all 1s;
+                    }
+                }
+            }
+        }
+    }
+    .menu{
+        padding: 20px 0px;
+        display: flex;
+        gap: 20px;
+        background-color: #D9D9D9;
+        max-width: 35%;
+        min-width: 362px;
+        min-height: 160px;
+        justify-content: center;
+        padding: 10px;
+        align-items: center;
+        h2{
+            font-weight: 100;
+        }
+        div{
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            min-width: 100px;
+            width: 230px;
+            max-width: 230px;
+            button{
+                padding: 15px 0px;
+                width: 100%;
+                font-size: 1.4rem;
+                cursor: pointer;
+                border: 2px solid #8E8E8E;
+                background-color: white;
+                &:hover{
+                    border: 2px solid white;
+                    background-color: red;
+                    color: white;
+                }
+            }
+            .fugir{
+                background-color: red;
+                color: white;
+                &:hover{
+                    border: 2px solid #8E8E8E;
+                    background-color: white;
+                    color: black;
+                }
+            }
+        }
+    }
+}

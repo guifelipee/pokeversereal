@@ -1,0 +1,71 @@
+Date : 2023-05-03 11:17:43
+Directory : c:\Projetos\PokeVerse\poke-verse\src\components
+Total : 30 files,  826 codes, 14 comments, 22 blanks, all 862 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| JavaScript JSX |         15 |        443 |         11 |         17 |        471 |
+| Less           |         15 |        383 |          3 |          5 |        391 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                           | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                              |         30 |        826 |         14 |         22 |        862 |
+| ArticleCadastro                                                                |          2 |        185 |          6 |          2 |        193 |
+| ArticleLogin                                                                   |          2 |         81 |          0 |          0 |         81 |
+| BotaoEscolha                                                                   |          2 |         21 |          1 |          1 |         23 |
+| BotaoInicial                                                                   |          2 |         28 |          0 |          1 |         29 |
+| BotaoSubmit                                                                    |          2 |         16 |          0 |          1 |         17 |
+| BotaoTransparente                                                              |          2 |         19 |          0 |          1 |         20 |
+| BoxTransparent                                                                 |          2 |         25 |          2 |          1 |         28 |
+| ButtonCompra                                                                   |          2 |         36 |          0 |          1 |         37 |
+| Chat                                                                           |          2 |         53 |          0 |          3 |         56 |
+| CloseButton                                                                    |          2 |         20 |          0 |          2 |         22 |
+| FormAlterar                                                                    |          2 |        149 |          4 |          3 |        156 |
+| Header                                                                         |          4 |         42 |          0 |          2 |         44 |
+| Header (Files)                                                                 |          2 |         30 |          0 |          0 |         30 |
+| Header\MenuUsuario                                                             |          2 |         12 |          0 |          2 |         14 |
+| InputsLogin                                                                    |          2 |         33 |          0 |          1 |         34 |
+| TelaCompra                                                                     |          2 |        118 |          1 |          3 |        122 |
++--------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                       | language       | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| c:\Projetos\PokeVerse\poke-verse\src\components\ArticleCadastro\index.jsx      | JavaScript JSX |        112 |          6 |          2 |        120 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\ArticleCadastro\styles.less    | Less           |         73 |          0 |          0 |         73 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\ArticleLogin\index.jsx         | JavaScript JSX |         43 |          0 |          0 |         43 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\ArticleLogin\styles.less       | Less           |         38 |          0 |          0 |         38 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\BotaoEscolha\index.jsx         | JavaScript JSX |          8 |          0 |          1 |          9 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\BotaoEscolha\styles.less       | Less           |         13 |          1 |          0 |         14 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\BotaoInicial\index.jsx         | JavaScript JSX |          4 |          0 |          0 |          4 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\BotaoInicial\styles.less       | Less           |         24 |          0 |          1 |         25 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\BotaoSubmit\index.jsx          | JavaScript JSX |          6 |          0 |          1 |          7 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\BotaoSubmit\styles.less        | Less           |         10 |          0 |          0 |         10 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\BotaoTransparente\index.jsx    | JavaScript JSX |          8 |          0 |          1 |          9 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\BotaoTransparente\styles.less  | Less           |         11 |          0 |          0 |         11 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\BoxTransparent\index.jsx       | JavaScript JSX |         10 |          0 |          1 |         11 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\BoxTransparent\styles.less     | Less           |         15 |          2 |          0 |         17 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\ButtonCompra\index.jsx         | JavaScript JSX |         12 |          0 |          1 |         13 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\ButtonCompra\styles.less       | Less           |         24 |          0 |          0 |         24 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\Chat\index.jsx                 | JavaScript JSX |         22 |          0 |          2 |         24 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\Chat\styles.less               | Less           |         31 |          0 |          1 |         32 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\CloseButton\index.jsx          | JavaScript JSX |          5 |          0 |          2 |          7 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\CloseButton\styles.less        | Less           |         15 |          0 |          0 |         15 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\FormAlterar\index.jsx          | JavaScript JSX |        105 |          4 |          2 |        111 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\FormAlterar\styles.less        | Less           |         44 |          0 |          1 |         45 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\Header\MenuUsuario\index.jsx   | JavaScript JSX |          6 |          0 |          1 |          7 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\Header\MenuUsuario\styles.less | Less           |          6 |          0 |          1 |          7 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\Header\index.jsx               | JavaScript JSX |         16 |          0 |          0 |         16 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\Header\styles.less             | Less           |         14 |          0 |          0 |         14 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\InputsLogin\index.jsx          | JavaScript JSX |         24 |          0 |          1 |         25 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\InputsLogin\styles.less        | Less           |          9 |          0 |          0 |          9 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\TelaCompra\index.jsx           | JavaScript JSX |         62 |          1 |          2 |         65 |
+| c:\Projetos\PokeVerse\poke-verse\src\components\TelaCompra\styles.less         | Less           |         56 |          0 |          1 |         57 |
+| Total                                                                          |                |        826 |         14 |         22 |        862 |
++--------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+

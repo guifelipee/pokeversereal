@@ -1,0 +1,46 @@
+"filename", "language", "JavaScript JSX", "Less", "comment", "blank", "total"
+"c:\Projetos\PokeVerse\poke-verse\src\components\ArticleCadastro\index.jsx", "JavaScript JSX", -112, 0, -6, -2, -120
+"c:\Projetos\PokeVerse\poke-verse\src\components\ArticleCadastro\styles.less", "Less", 0, -73, 0, 0, -73
+"c:\Projetos\PokeVerse\poke-verse\src\components\ArticleLogin\index.jsx", "JavaScript JSX", -43, 0, 0, 0, -43
+"c:\Projetos\PokeVerse\poke-verse\src\components\ArticleLogin\styles.less", "Less", 0, -38, 0, 0, -38
+"c:\Projetos\PokeVerse\poke-verse\src\components\BotaoEscolha\index.jsx", "JavaScript JSX", -8, 0, 0, -1, -9
+"c:\Projetos\PokeVerse\poke-verse\src\components\BotaoEscolha\styles.less", "Less", 0, -13, -1, 0, -14
+"c:\Projetos\PokeVerse\poke-verse\src\components\BotaoInicial\index.jsx", "JavaScript JSX", -4, 0, 0, 0, -4
+"c:\Projetos\PokeVerse\poke-verse\src\components\BotaoInicial\styles.less", "Less", 0, -24, 0, -1, -25
+"c:\Projetos\PokeVerse\poke-verse\src\components\BotaoSubmit\index.jsx", "JavaScript JSX", -6, 0, 0, -1, -7
+"c:\Projetos\PokeVerse\poke-verse\src\components\BotaoSubmit\styles.less", "Less", 0, -10, 0, 0, -10
+"c:\Projetos\PokeVerse\poke-verse\src\components\BotaoTransparente\index.jsx", "JavaScript JSX", -8, 0, 0, -1, -9
+"c:\Projetos\PokeVerse\poke-verse\src\components\BotaoTransparente\styles.less", "Less", 0, -11, 0, 0, -11
+"c:\Projetos\PokeVerse\poke-verse\src\components\BoxTransparent\index.jsx", "JavaScript JSX", -10, 0, 0, -1, -11
+"c:\Projetos\PokeVerse\poke-verse\src\components\BoxTransparent\styles.less", "Less", 0, -15, -2, 0, -17
+"c:\Projetos\PokeVerse\poke-verse\src\components\ButtonCompra\index.jsx", "JavaScript JSX", -12, 0, 0, -1, -13
+"c:\Projetos\PokeVerse\poke-verse\src\components\ButtonCompra\styles.less", "Less", 0, -24, 0, 0, -24
+"c:\Projetos\PokeVerse\poke-verse\src\components\Chat\index.jsx", "JavaScript JSX", -22, 0, 0, -2, -24
+"c:\Projetos\PokeVerse\poke-verse\src\components\Chat\styles.less", "Less", 0, -31, 0, -1, -32
+"c:\Projetos\PokeVerse\poke-verse\src\components\CloseButton\index.jsx", "JavaScript JSX", -5, 0, 0, -2, -7
+"c:\Projetos\PokeVerse\poke-verse\src\components\CloseButton\styles.less", "Less", 0, -15, 0, 0, -15
+"c:\Projetos\PokeVerse\poke-verse\src\components\FormAlterar\index.jsx", "JavaScript JSX", -105, 0, -4, -2, -111
+"c:\Projetos\PokeVerse\poke-verse\src\components\FormAlterar\styles.less", "Less", 0, -44, 0, -1, -45
+"c:\Projetos\PokeVerse\poke-verse\src\components\Header\MenuUsuario\index.jsx", "JavaScript JSX", -6, 0, 0, -1, -7
+"c:\Projetos\PokeVerse\poke-verse\src\components\Header\MenuUsuario\styles.less", "Less", 0, -6, 0, -1, -7
+"c:\Projetos\PokeVerse\poke-verse\src\components\Header\index.jsx", "JavaScript JSX", -16, 0, 0, 0, -16
+"c:\Projetos\PokeVerse\poke-verse\src\components\Header\styles.less", "Less", 0, -14, 0, 0, -14
+"c:\Projetos\PokeVerse\poke-verse\src\components\InputsLogin\index.jsx", "JavaScript JSX", -24, 0, 0, -1, -25
+"c:\Projetos\PokeVerse\poke-verse\src\components\InputsLogin\styles.less", "Less", 0, -9, 0, 0, -9
+"c:\Projetos\PokeVerse\poke-verse\src\components\TelaCompra\index.jsx", "JavaScript JSX", -62, 0, -1, -2, -65
+"c:\Projetos\PokeVerse\poke-verse\src\components\TelaCompra\styles.less", "Less", 0, -56, 0, -1, -57
+"c:\Projetos\PokeVerse\poke-verse\src\pages\Battle\index.jsx", "JavaScript JSX", 58, 0, 0, 3, 61
+"c:\Projetos\PokeVerse\poke-verse\src\pages\Battle\styles.less", "Less", 0, 112, 0, 0, 112
+"c:\Projetos\PokeVerse\poke-verse\src\pages\Home\index.jsx", "JavaScript JSX", 256, 0, 5, 8, 269
+"c:\Projetos\PokeVerse\poke-verse\src\pages\Home\styles.less", "Less", 0, 242, 5, 6, 253
+"c:\Projetos\PokeVerse\poke-verse\src\pages\Inicial\index.jsx", "JavaScript JSX", 19, 0, 0, 1, 20
+"c:\Projetos\PokeVerse\poke-verse\src\pages\Inicial\styles.less", "Less", 0, 27, 0, 0, 27
+"c:\Projetos\PokeVerse\poke-verse\src\pages\Login\index.jsx", "JavaScript JSX", 19, 0, 0, 0, 19
+"c:\Projetos\PokeVerse\poke-verse\src\pages\Login\styles.less", "Less", 0, 21, 0, 1, 22
+"c:\Projetos\PokeVerse\poke-verse\src\pages\Lol\index.jsx", "JavaScript JSX", 9, 0, 0, 0, 9
+"c:\Projetos\PokeVerse\poke-verse\src\pages\Lol\styles.less", "Less", 0, 10, 0, 0, 10
+"c:\Projetos\PokeVerse\poke-verse\src\pages\Mapa\index.jsx", "JavaScript JSX", 12, 0, 0, 1, 13
+"c:\Projetos\PokeVerse\poke-verse\src\pages\Mapa\styles.less", "Less", 0, 16, 2, 0, 18
+"c:\Projetos\PokeVerse\poke-verse\src\pages\Primaria\index.jsx", "JavaScript JSX", 28, 0, 0, 3, 31
+"c:\Projetos\PokeVerse\poke-verse\src\pages\Primaria\styles.less", "Less", 0, 32, 0, 0, 32
+"Total", "-", -42, 77, -2, 1, 34

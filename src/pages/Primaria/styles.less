@@ -1,0 +1,32 @@
+.Principal{    
+    background-image: url(../../assets/background-gif.gif);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    max-width: 100%;
+    gap: 30px;
+    .sair{
+        padding: 10px 115px !important;
+        background-color: red;
+        color: white;
+        border: 6px solid white;
+        &:hover{
+            background-color: white;
+            border: 6px solid red;
+            color: red;
+        }
+    }
+    .imgHeader{
+        img{
+            max-width: 700px;
+        }
+    }
+    .botaoEdit{
+        padding: 10px 100px;
+    }
+}

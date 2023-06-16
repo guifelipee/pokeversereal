@@ -1,0 +1,27 @@
+.Inicial{
+    background-image: url(../../assets/background-gif.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 640px;
+    height: 100vh;
+    min-width: 100%;
+    min-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    .sumido{
+        opacity: 0;
+        z-index: 0;
+        transition: ease 1s;
+        transform: rotate(360deg);
+    }
+    .botoes{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        align-items: center;
+        flex-grow: 1;
+        justify-content: center;
+    }
+}

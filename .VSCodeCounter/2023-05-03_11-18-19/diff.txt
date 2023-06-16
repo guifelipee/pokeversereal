@@ -1,0 +1,52 @@
+Date : 2023-05-03 11:18:19
+Directory : c:\Projetos\PokeVerse\poke-verse\src\states
+Total : 16 files,  -854 codes, -11 comments, -19 blanks, all -884 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| JavaScript     |          2 |          7 |          1 |          4 |         12 |
+| JavaScript JSX |          7 |       -401 |         -5 |        -16 |       -422 |
+| Less           |          7 |       -460 |         -7 |         -7 |       -474 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                            | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                               |         16 |       -854 |        -11 |        -19 |       -884 |
+| . (Files)                                                       |          2 |          7 |          1 |          4 |         12 |
+| ..                                                              |         14 |       -861 |        -12 |        -23 |       -896 |
+| ..\pages                                                        |         14 |       -861 |        -12 |        -23 |       -896 |
+| ..\pages\Battle                                                 |          2 |       -170 |          0 |         -3 |       -173 |
+| ..\pages\Home                                                   |          2 |       -498 |        -10 |        -14 |       -522 |
+| ..\pages\Inicial                                                |          2 |        -46 |          0 |         -1 |        -47 |
+| ..\pages\Login                                                  |          2 |        -40 |          0 |         -1 |        -41 |
+| ..\pages\Lol                                                    |          2 |        -19 |          0 |          0 |        -19 |
+| ..\pages\Mapa                                                   |          2 |        -28 |         -2 |         -1 |        -31 |
+| ..\pages\Primaria                                               |          2 |        -60 |          0 |         -3 |        -63 |
++-----------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                        | language       | code       | comment    | blank      | total      |
++-----------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| c:\Projetos\PokeVerse\poke-verse\src\pages\Battle\index.jsx     | JavaScript JSX |        -58 |          0 |         -3 |        -61 |
+| c:\Projetos\PokeVerse\poke-verse\src\pages\Battle\styles.less   | Less           |       -112 |          0 |          0 |       -112 |
+| c:\Projetos\PokeVerse\poke-verse\src\pages\Home\index.jsx       | JavaScript JSX |       -256 |         -5 |         -8 |       -269 |
+| c:\Projetos\PokeVerse\poke-verse\src\pages\Home\styles.less     | Less           |       -242 |         -5 |         -6 |       -253 |
+| c:\Projetos\PokeVerse\poke-verse\src\pages\Inicial\index.jsx    | JavaScript JSX |        -19 |          0 |         -1 |        -20 |
+| c:\Projetos\PokeVerse\poke-verse\src\pages\Inicial\styles.less  | Less           |        -27 |          0 |          0 |        -27 |
+| c:\Projetos\PokeVerse\poke-verse\src\pages\Login\index.jsx      | JavaScript JSX |        -19 |          0 |          0 |        -19 |
+| c:\Projetos\PokeVerse\poke-verse\src\pages\Login\styles.less    | Less           |        -21 |          0 |         -1 |        -22 |
+| c:\Projetos\PokeVerse\poke-verse\src\pages\Lol\index.jsx        | JavaScript JSX |         -9 |          0 |          0 |         -9 |
+| c:\Projetos\PokeVerse\poke-verse\src\pages\Lol\styles.less      | Less           |        -10 |          0 |          0 |        -10 |
+| c:\Projetos\PokeVerse\poke-verse\src\pages\Mapa\index.jsx       | JavaScript JSX |        -12 |          0 |         -1 |        -13 |
+| c:\Projetos\PokeVerse\poke-verse\src\pages\Mapa\styles.less     | Less           |        -16 |         -2 |          0 |        -18 |
+| c:\Projetos\PokeVerse\poke-verse\src\pages\Primaria\index.jsx   | JavaScript JSX |        -28 |          0 |         -3 |        -31 |
+| c:\Projetos\PokeVerse\poke-verse\src\pages\Primaria\styles.less | Less           |        -32 |          0 |          0 |        -32 |
+| c:\Projetos\PokeVerse\poke-verse\src\states\configStats.js      | JavaScript     |          2 |          1 |          2 |          5 |
+| c:\Projetos\PokeVerse\poke-verse\src\states\pokeStoreState.js   | JavaScript     |          5 |          0 |          2 |          7 |
+| Total                                                           |                |       -854 |        -11 |        -19 |       -884 |
++-----------------------------------------------------------------+----------------+------------+------------+------------+------------+
